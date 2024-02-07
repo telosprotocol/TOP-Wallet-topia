@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4px" height="16px" viewBox="0 0 4 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title> 31</title>
+    <g id="" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="" transform="translate(-20.000000, -91.000000)" fill="#000000">
+            <g id="-30" transform="translate(20.000000, 91.000000)">
+                <circle id="" transform="translate(2.000000, 2.000000) scale(-1, 1) translate(-2.000000, -2.000000) " cx="2" cy="2" r="2"></circle>
+                <circle id="-6" transform="translate(2.000000, 8.000000) scale(-1, 1) translate(-2.000000, -8.000000) " cx="2" cy="8" r="2"></circle>
+                <circle id="-7" transform="translate(2.000000, 14.000000) scale(-1, 1) translate(-2.000000, -14.000000) " cx="2" cy="14" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

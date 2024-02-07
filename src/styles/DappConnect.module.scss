@@ -1,0 +1,95 @@
+.list {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 15px;
+  margin-bottom: 120px;
+}
+.item {
+  width: 100%;
+  background: #f9f9f9;
+  border-radius: 8px;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  margin-bottom: 12px;
+}
+.itemLeft {
+  display: flex;
+  text-align: left;
+}
+.balance {
+  font-size: 12px;
+  font-weight: 400;
+  color: #838383;
+  margin-top: 3px;
+}
+.imgWrap {
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+.accountName {
+  font-size: 14px;
+  font-weight: 500;
+  color: #020811;
+  span {
+    color: rgba(53, 72, 167, 1);
+    font-weight: 400;
+  }
+}
+.fixBottom {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  padding: 20px;
+  background-color: #fff;
+  p {
+    font-size: 12px;
+    font-weight: 400;
+    color: #333333;
+  }
+  > div {
+    display: flex;
+    justify-content: space-between;
+    > div {
+      width: 48%;
+    }
+  }
+}
+.host {
+  text-align: center;
+  padding: 12px 0;
+  > div {
+    padding: 8px;
+    background: rgba(53, 72, 167, 0.05);
+    border-radius: 24px;
+    display: inline-block;
+  }
+  img {
+    margin-right: 8px;
+    height: 24px;
+    width: 24px;
+    vertical-align: middle;
+  }
+}
+.ConnectwithTopia {
+  background: rgba(53, 72, 167, 0.05);
+  padding: 30px 46px;
+}
+
+.cwt1 {
+  font-size: 24px;
+  font-weight: 500;
+  color: #333333;
+  margin-bottom: 15px;
+}
+
+.cwt2 {
+  font-size: 12px;
+  font-weight: 400;
+  color: #333333;
+  line-height: 17px;
+}

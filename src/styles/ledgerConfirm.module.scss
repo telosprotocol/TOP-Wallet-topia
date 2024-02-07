@@ -1,0 +1,20 @@
+.lc {
+  width: 320px;
+  background: rgba(53, 72, 167, 0.1);
+  border-radius: 8px;
+  padding: 13px 16px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #3548a7;
+  line-height: 17px;
+  display: flex;
+  margin-bottom: 20px;
+  text-align: left;
+  align-items: baseline;
+  img {
+    flex-shrink: 0;
+    margin-right: 10px;
+    width: 14px;
+    height: 12px;
+  }
+}

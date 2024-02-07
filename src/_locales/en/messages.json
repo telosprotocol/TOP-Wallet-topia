@@ -1,0 +1,402 @@
+{
+  "Sign": { "message": "Sign" },
+  "Message": { "message": "Message" },
+  "Youaresigning": { "message": "You are signing" },
+  "SignatureRequestDesc": { "message": "You should only sign this message if you fully understand its contents and trust the requesting website." },
+  "SignatureRequest": { "message": "Signature Request" },
+  "HardwareWallet": { "message": "Hardware wallet" },
+  "LedgerNotSupport": {
+    "message": "Ledger accounts do not currently support this transaction"
+  },
+  "SelectOneAddress": { "message": "Please select at least one address" },
+  "SwitchTheNetWork": { "message": "Switch the network" },
+  "AllowSwitchTo": { "message": "Allow this site to switch to " },
+  "SelectYourAccount": { "message": "Select your account" },
+  "BeforeConfirming": {
+    "message": "Before confirming, please insert your Ledger device and select Ethereum application."
+  },
+  "BeforeConfirmingFil": {
+    "message": "Before confirming, please insert your Ledger device and select Filecoin application."
+  },
+  "NextLedger": { "message": "Next" },
+  "Previous": { "message": "Previous" },
+  "UnlockLeder": { "message": "Unlock" },
+  "LedgerWallet": { "message": "Connect Ledger" },
+  "ForgetThisDevice": { "message": "Forget this device" },
+  "ForgotDevice": { "message": "Forgot device?" },
+  "ForgotDeviceContent": {
+    "message": "It will erase the previously connected and imported accounts. If you want to recover them, you will need to import them again."
+  },
+  "ConnectYourHardwareWallet": { "message": "Connect your hardware wallet" },
+  "PlugYourLedger": {
+    "message": "1. Plug your Ledger directly into your computer"
+  },
+  "SelectEthereumApp": {
+    "message": "2. Select and enter Ethereum App"
+  },
+  "SelectFilecoinApp": {
+    "message": "2. Select and enter Filecoin App"
+  },
+  "ChooseTheAccount": {
+    "message": "3. Choose the account you want to connect"
+  },
+  "Continue": { "message": "Continue" },
+  "GasLimit": { "message": "Gas Limit" },
+  "ContractInteraction": { "message": "Contract interaction" },
+  "Data": { "message": "Data" },
+  "CreateYourTOPDigitalWallet": { "message": "Create your TOP digital wallet" },
+  "CreateWallet": { "message": "Create wallet" },
+  "ImportWallet": { "message": "Import wallet" },
+  "CreateWallet1": { "message": "Create wallet" },
+  "ImportWallet1": { "message": "Import wallet" },
+  "Welcome": { "message": "Welcome" },
+  "Password": { "message": "Password" },
+  "Password1": { "message": "Password" },
+  "PleaseEnterA616DigitPassword": {
+    "message": "Please enter a 8~16 characters password"
+  },
+  "PleaseEnterA616DigitPasswordErr": {
+    "message": "Please enter an 8~16 digit password, must contain a number, an upper case letter and a special charactor"
+  },
+  "PleaseOneUpperCase": {
+    "message": "At least one upper case character"
+  },
+  "PleaseOneDigit": {
+    "message": "At least one digit"
+  },
+  "PleaseOneSymbol": {
+    "message": "At least one symbol"
+  },
+  "ResetWallet": { "message": "Reset wallet" },
+  "LogIn": { "message": "Log in" },
+  "IfTheWalletIsReset": {
+    "message": "If the wallet is reset, all the data will be deleted and cannot be retrieved. Are you sure you want to reset?"
+  },
+  "Cancel": { "message": "Cancel" },
+  "Cancel1": { "message": "Cancel" },
+  "Cancel2": { "message": "Cancel" },
+  "Reset": { "message": "Reset" },
+  "Settings": { "message": "Settings" },
+  "AccountDetails": { "message": "Account details" },
+  "ViewAccountsAtTOPScan": { "message": "View account at TOPScan" },
+  "ViewAccountsAtFILScan": { "message": "View account at Filfox" },
+  "ViewAccountsAtScan": { "message": "View account at scan" },
+  "ResourceManagement": { "message": "Resource management" },
+  "RemoveAccount": { "message": "Remove account" },
+  "ThisIsAnAccountName": { "message": "This is an account name" },
+  "Copy": { "message": "Copy" },
+  "Receive": { "message": "Receive" },
+  "ReceiveAddress": { "message": "Receive address" },
+  "Transfer": { "message": "Transfer" },
+  "Transaction": { "message": "Transaction" },
+  "Assets": { "message": "Assets" },
+  "Record": { "message": "Records" },
+  "MyAccount": { "message": "My account" },
+  "LockAccount": { "message": "Lock account" },
+  "WalletSettings": { "message": "Wallet settings" },
+  "AboutUs": { "message": "About us" },
+  "PleaseEnter120Characters": { "message": "Please enter 1~20 characters" },
+  "PleaseEnterTheWalletName": {
+    "message": "Please enter the wallet name, 1~20 characters"
+  },
+  "PleaseEnterA616DigitPassword2": {
+    "message": "Please enter a 8~16-digit password, in numbers, letters, and special symbols"
+  },
+  "RepeatPassword1": { "message": "Repeat password" },
+  "RepeatPassword": { "message": "Repeat password" },
+  "TheTwoPasswordsDoNotMatch": {
+    "message": "The two passwords do not match, please re-enter"
+  },
+  "Next": { "message": "Next" },
+  "Next1": { "message": "Next" },
+  "Reminder": { "message": "Reminder" },
+  "PleaseBackupYourWallet": { "message": "Please backup your wallet!" },
+  "InTheNextStep": {
+    "message": "In the next step, you will see the mnemonic phrases (12 words) that allow you to restore your wallet."
+  },
+  "IfYourMnemonicPhrasesAreLost": {
+    "message": "1. If your mnemonic phrases are lost, your assets will be lost forever."
+  },
+  "IfYourMnemonicPhrasesAreCompromised": {
+    "message": "2. If your mnemonic phrases are compromised, your assets may be lost."
+  },
+  "YouHaveTheResponsibilityToKeep": {
+    "message": "3. You have the responsibility to keep your own mnemonic phrases safe."
+  },
+  "TopiaIsADecentralizedWallet": {
+    "message": "4. Topia is a decentralized wallet and will not store your private key or mnemonic phrases. Once the private key and mnemonic phrases are lost, they cannot be retrieved."
+  },
+  "BackupNow": { "message": "Backup now" },
+  "Later": { "message": "Later" },
+  "BackupMnemonicPhrases": { "message": "Backup mnemonic phrases" },
+  "CopyMnemonicPhrases": { "message": "Copy mnemonic phrases" },
+  "DoNotTakeScreenshotsOrShare": {
+    "message": "1. Do not take screenshots or share your mnemonic phrases, which may be intercepted by third-party malware and cause asset loss."
+  },
+  "CheckYourSurroundings": {
+    "message": "2. Check your surroundings carefully to ensure that there is no one or no camera around."
+  },
+  "VerifyMnemonicPhrases": { "message": "Verify mnemonic phrases" },
+  "ClickOnTheWordsToPutThemInTheCorrectOrder": {
+    "message": "Click on the words to put them in the correct order"
+  },
+  "IncorrectSequence": {
+    "message": "Incorrect sequence, please try again."
+  },
+  "ImportMnemonicPhrases": { "message": "Import mnemonic phrases" },
+  "Paste": { "message": "Paste" },
+  "PleaseEnterYour12": {
+    "message": "Please enter your 12-word mnemonic phrases"
+  },
+  "Sending": { "message": "Sending" },
+  "Receiving": { "message": "Receiving" },
+  "SendTOP": { "message": "Send " },
+  "ReceiveTOP": { "message": "Receive TOP" },
+  "MoreRecords": { "message": "More records" },
+  "GoToTOPScanForMoreRecords": { "message": "Go to TOPScan for more records" },
+  "GoToFILScanForMoreRecords": { "message": "Go to scan for more records" },
+  "Succeeded": { "message": "Succeeded" },
+  "Failed": { "message": "Failed" },
+  "From": { "message": "From" },
+  "To": { "message": "To" },
+  "Amount": { "message": "Amount" },
+  "Fee": { "message": "Fee (TOP)" },
+  "Fee1": { "message": "Fee" },
+  "FeeFil": { "message": "Fee (FIL)" },
+  "Remark": { "message": "Remark" },
+  "ViewOnExplorer": { "message": "View on explorer" },
+  "CopyTransactionHash": { "message": "Copy transaction hash" },
+  "CopyAddress": { "message": "Copy address" },
+  "TransferTo": { "message": "Transfer to" },
+  "IncorrectAddressFormat": {
+    "message": "Incorrect address format, please enter again"
+  },
+  "SenderRecipientNotBeSame": {
+    "message": "Sender and recipient could not be the same."
+  },
+  "Token": { "message": "Token" },
+  "Balance": { "message": "Balance" },
+  "Note01TOP": {
+    "message": "Note: 0.1 TOP of your balance will be used as margin and cannot be transferred out."
+  },
+  "All": { "message": "All" },
+  "IncorrectAmountPleaseEnterAgain": {
+    "message": "Incorrect amount, please enter again"
+  },
+  "OK": { "message": "OK" },
+  "Authorization": { "message": "Authorization" },
+  "Address": { "message": "Address" },
+  "TransactionHash": { "message": "Transaction hash" },
+  "UseXXWalletToConnect": { "message": "Use XX wallet to connect" },
+  "SelectAccount": { "message": "Select account" },
+  "ConnectingTheWebsite": {
+    "message": "Connecting the website will allow the site to view your account assets"
+  },
+  "ToKeepYourAccountSafe": {
+    "message": "To keep your account safe, please connect to a website you trust"
+  },
+  "Lock": { "message": "Lock" },
+  "ImportedAccountsWillNot": {
+    "message": "Imported accounts will not be associated with the mnemonic phrases of the original Topia account"
+  },
+  "Type": { "message": "Type" },
+  "PrivateKey": { "message": "Private key" },
+  "MnemonicPhrases": { "message": "Mnemonic phrases" },
+  "PleasePasteThePrivateKey": { "message": "Please paste the private key" },
+  "PleasePasteTheMnemonicPhrases": {
+    "message": "Please paste the mnemonic phrases"
+  },
+  "WalletName": { "message": "Wallet name" },
+  "PleaseEnterThePassword": { "message": "Please enter the password" },
+  "IncorrectPassword": {
+    "message": "Incorrect password, please enter again"
+  },
+  "Import": { "message": "Import" },
+  "IncorrectPrivateKey": {
+    "message": "Incorrect private key, please enter again"
+  },
+  "IncorrectMnemonicPhrases": {
+    "message": "Incorrect mnemonic phrases, please enter again"
+  },
+  "PrivateKeyAlreadyExists": { "message": "Private key already exists" },
+  "MnemonicPhrasesAlreadyExist": {
+    "message": "Mnemonic phrases already exist"
+  },
+  "TheNewAccountWillBeBasedOn": {
+    "message": "The new account will be based on the mnemonic phrases you originally created/imported"
+  },
+  "Create": { "message": "Create" },
+  "Language": { "message": "Language" },
+  "SimplifiedChinese": { "message": "Simplified Chinese" },
+  "CurrencyUnit": { "message": "Currency unit" },
+  "ShowMnemonicPhrases": { "message": "Show mnemonic phrases" },
+  "ClearCache": { "message": "Reset Account" },
+  "Clear": { "message": "Reset" },
+  "DontShowThisAccountMnemonicToAnyone": {
+    "message": "Don't show this account mnemonic to anyone!"
+  },
+  "ThisAccountMnemonicCanBe": {
+    "message": "This account mnemonic can be used to steal all of your accounts"
+  },
+  "YourMnemonicPhrases": { "message": "Your mnemonic phrases" },
+  "Close": { "message": "Close" },
+  "Version": { "message": "Version" },
+  "PrivacyPolicy": { "message": "Privacy policy" },
+  "TermsOfUse": { "message": "Terms of use" },
+  "TopiaOfficialWebsite": { "message": "Topia official website" },
+  "WeChat": { "message": "WeChat" },
+  "WeChatOfficialAccount": { "message": "WeChat official account" },
+  "ViewAccountAtTOPScan": { "message": "View account at TOPScan" },
+  "Edit": { "message": "Edit" },
+  "ExportPrivateKey": { "message": "Export private key" },
+  "ExportPrivateKey1": { "message": "Private key" },
+  "NoteNeverMakeYourPrivateKeyPublic": {
+    "message": "Note: Never make your private key public. Anyone with your private key can obtain your asset."
+  },
+  "NoteNeverMakeYourPrivateKeyPublic2": {
+    "message": "Note: Never make your mnemonic phrases public. Anyone with your mnemonic phrases can obtain your asset."
+  },
+  "Finish": { "message": "Finish" },
+  "ExportMnemonicPhrases": { "message": "Export mnemonic phrases" },
+  "ExportMnemonicPhrases1": { "message": "Mnemonic phrases" },
+  "EachTOPAccountWillInitially": {
+    "message": "Each TOP account will initially have 25,000 Tgas as the transfer fee. By default, if the account balance is greater than 100 TOP Token, the Tgas of the account will restore to 25,000 every day."
+  },
+  "AvailableTgas": { "message": "Available Tgas" },
+  "AvailableTotalFreeTags": { "message": "Available/Total free Tags" },
+  "AvailableTotalStakedTags": { "message": "Available/Total staked Tags" },
+  "LockWithdraw": { "message": "Lock/Withdraw" },
+  "WithdrawableTOP": { "message": "Withdrawable TOP" },
+  "Withdraw": { "message": "Withdraw" },
+  "LockTOP": { "message": "Lock TOP" },
+  "ExchangeForTgas": { "message": "Exchange for Tgas" },
+  "PleaseEnterTheLockedAmount": { "message": "Please enter the locked amount" },
+  "InsufficientBalance": { "message": "Insufficient balance" },
+  "AvailableBalance": { "message": "Available balance (TOP):" },
+  "WithdrawTOP": { "message": "Withdraw TOP" },
+  "ConsumedTgas": { "message": "Consumed Tgas" },
+  "PleaseEnterTheWithdrawalAmount": {
+    "message": "Please enter the withdrawal amount"
+  },
+  "YouHaveNoTransactions": { "message": "You have no transactions" },
+  "sending": { "message": "Sending" },
+  "failure": { "message": "Failure" },
+  "success": { "message": "Success" },
+  "success1": { "message": "Success" },
+  "Copied": { "message": "Copied" },
+  "YourMnemonicsHaveNotBeenBackedUp": {
+    "message": "Your mnemonics have not been backed up, please back up them to prevent loss of assets caused by forgetting the password or deleting the application by mistake."
+  },
+  "Status": { "message": "Status" },
+  "Date": { "message": "Date" },
+  "PleaseEnterYourPrivateKey": { "message": "Please enter your private key" },
+  "InsufficientBalance1": { "message": "Insufficient balance" },
+  "PleaseEnterPaymentAddress": { "message": "Please enter payment address" },
+  "PleaseEnterTheTransferAmount": {
+    "message": "Please enter the transfer amount"
+  },
+  "PleaseEnterTheRemark": { "message": "Please enter the remark" },
+  "DontSeeYourToken": { "message": "Don't see your token?" },
+  "ImportTokens": { "message": "Import tokens" },
+  "CustomToken": { "message": "Manage custom token" },
+  "TokenContractAddress": { "message": "Token Contract Address" },
+  "PleaseInputAddress": {
+    "message": "Please input the token contract address"
+  },
+  "TokenSymbol": { "message": "Token Symbol" },
+  "TokenDecimal": { "message": "Token Decimal" },
+  "AddToken": { "message": "Add Token" },
+  "SureAdd": { "message": "Would you like to import this token?" },
+  "Back": { "message": "Back" },
+  "ImportToken": { "message": "Import token" },
+  "InvalidAddress": { "message": "Invalid address" },
+  "TokenHasAdd": { "message": "Token has add!" },
+  "AddSuccess": { "message": "Add success!" },
+  "HideToken": { "message": "Hide token" },
+  "RemarkInformation128": {
+    "message": "Remark information can be 128 characters at most"
+  },
+  "IHaveRead": { "message": "I have read and agree to the " },
+  "TermOfUse": { "message": "Term of Use" },
+  "PleaseAgreeTermOfUse": { "message": "Please agree Term of Use" },
+  "ResettingAccount": {
+    "message": "Resetting your account will clear your transaction history. This will not change the balances in your accounts or require you to re-enter your Secret Recovery Phase."
+  },
+  "Nevermind": { "message": "Nevermind" },
+  "Reset1": { "message": "Reset" },
+  "ResetAccount": { "message": "Reset Account?" },
+  "NoThanks": { "message": "No thanks" },
+  "YesCreateIt": { "message": "Yes create it" },
+  "YouDontYetHave": {
+    "message": "You don't yet have a Filecoin account, create one now?"
+  },
+  "UnlockTransfer": {
+    "message": "Unlock Transfer"
+  },
+  "EnterToUnlockTransfer": {
+    "message": "Enter your wallet password to unlock transfer"
+  },
+  "Reveal": {
+    "message": "Reveal"
+  },
+  "Unlock": {
+    "message": "Unlock"
+  },
+  "RevealBalance": {
+    "message": "Reveal Balance"
+  },
+  "EnterToRevealBalance": {
+    "message": "Enter your wallet password to reveal balance."
+  },
+  "PleaseEnterPassword": {
+    "message": "Please enter the wallet password"
+  },
+  "Account": {
+    "message": "Account"
+  },
+  "SystemContract": {
+    "message": "System Contract"
+  },
+  "DETAILS": {
+    "message": "DETAILS"
+  },
+  "MaxGasFee": {
+    "message": "Max gas fee"
+  },
+  "LikelyIn": {
+    "message": "Likely in < 1 min"
+  },
+  "Total": {
+    "message": "Total"
+  },
+  "Reject": {
+    "message": "Reject"
+  },
+  "Confirm": {
+    "message": "Confirm"
+  },
+  "ContractFunction": {
+    "message": "Method"
+  },
+  "Params": {
+    "message": "Parameters"
+  },
+  "Tokensymbol": {
+    "message": "Token symbol or contract address"
+  },
+  "ManageCustomToken": {
+    "message": "Manage Custom Token"
+  },
+  "NoToken": {
+    "message": "No tokens"
+  },
+  "T8Address": {
+    "message": "T8 Address"
+  },
+  "T0Address": {
+    "message": "T0 Address"
+  },
+  "ForSecurityReasons": {
+    "message": "For security reasons, please enter your password to unlock transfer:"
+  }
+}

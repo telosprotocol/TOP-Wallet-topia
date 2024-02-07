@@ -1,0 +1,48 @@
+.InitWallet {
+  padding: 20px;
+}
+.btns {
+  > div {
+    margin-bottom: 10px;
+  }
+}
+.formwrap {
+  margin-bottom: 30px;
+}
+.formitem {
+  margin-bottom: 10px;
+}
+.label {
+  font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 6px;
+  text-align: left;
+}
+.inputWrap {
+  margin-bottom: 6px;
+}
+.error {
+  font-size: 13px;
+  font-weight: 400;
+  color: #ff594f;
+  line-height: 18px;
+  text-align: left;
+}
+.tou {
+  font-size: 13px;
+  font-weight: 400;
+  color: #000000;
+  line-height: 18px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  span {
+    text-decoration: underline;
+    margin-left: 4px;
+    cursor: pointer;
+  }
+  img {
+    margin-right: 10px;
+  }
+}

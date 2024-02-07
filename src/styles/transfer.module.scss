@@ -1,0 +1,99 @@
+.transfer {
+  padding: 20px;
+}
+.btns {
+  > div {
+    margin-bottom: 10px;
+  }
+}
+.formwrap {
+  margin-bottom: 30px;
+}
+.formitem {
+  margin-bottom: 10px;
+}
+.label {
+  font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 6px;
+  text-align: left;
+}
+.inputWrap {
+  margin-bottom: 6px;
+  position: relative;
+}
+.rightBtn {
+  position: absolute;
+  bottom: 16px;
+  right: 10px;
+  height: 18px;
+  line-height: 17px;
+  border-radius: 8px;
+  border: 1px solid #000000;
+  font-size: 12px;
+  font-weight: 500;
+  color: #000000;
+  padding: 0 10px;
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+.error {
+  font-size: 13px;
+  font-weight: 400;
+  color: #ff594f;
+  line-height: 18px;
+  text-align: left;
+}
+
+.iconType {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  > div {
+    display: flex;
+    align-items: center;
+  }
+  > div:first-child {
+    font-size: 15px;
+    font-weight: 400;
+    color: #020811;
+    img {
+      margin-right: 10px;
+    }
+  }
+  > div:last-child {
+    font-size: 13px;
+    font-weight: 400;
+    color: #838383;
+  }
+}
+.queIcon {
+  width: 17px;
+  height: 17px;
+  margin-left: 5px;
+}
+
+.selectItem {
+  display: flex;
+  align-items: center;
+  height: 75px;
+  .selectItemRight {
+    text-align: left;
+  }
+  .selectItemName {
+    font-size: 15px;
+    font-weight: 400;
+    color: #020811;
+    line-height: 21px;
+    margin-bottom: 3px;
+  }
+  .selectItemBalance {
+    font-size: 13px;
+    font-weight: 400;
+    color: #838383;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+  }
+}

@@ -1,0 +1,22 @@
+.btns {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 33px;
+  > button {
+    width: 48%;
+  }
+}
+.error {
+  font-size: 12px;
+  font-weight: 400;
+  color: #ff594f;
+  margin-top: 6px;
+}
+.des {
+  margin-bottom: 6px;
+
+  font-size: 14px;
+  font-weight: 500;
+  color: #000000;
+  line-height: 20px;
+}

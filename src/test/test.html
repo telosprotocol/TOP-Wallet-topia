@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head> </head>
+  <body>
+    <div id="address"></div>
+    <div><button onclick="getaccount()">getaccount</button></div>
+    <div><button onclick="sendtx()">sendtx</button></div>
+    <div><button onclick="enable()">enable</button></div>
+    <script>
+      setTimeout(() => {
+        window.topjs = new TopJS()
+        topjs.on('accountChange', () => {
+          topialog('accountchange event')
+          window.location.reload(true)
+        })
+        topjs.on('chainChange', () => {
+          topialog('chainChange event')
+          window.location.reload(true)
+        })
+        async function start() {
+          const a = await topjs.enable()
+          topialog(a)
+          const acc = await topjs.getAccount((ba) => {
+            topialog('ba', ba)
+            document.getElementById('address').innerText = ba.address
+          })
+          topialog('binggo', acc)
+        }
+
+        start()
+        window.enable = async function () {
+          const a = await topjs.enable()
+          topialog('enable binggo', a)
+        }
+        window.getaccount = async function () {
+          const a = await topjs.getAccount((ba) => {
+            topialog('ba', ba)
+          })
+          topialog('binggo', a)
+        }
+        window.sendtx = async function () {
+          topjs
+            .send({
+              txMethod: 'transfer',
+              to: 'T800004c21c033e661d59a36cb7654cdbbbf83cda9357c',
+              amount: 170000000,
+              note: 'transfer test',
+            })
+            .on('transactionHash', (hash) => {
+              topialog('hash', hash)
+            })
+            .on('receipt', (d) => topialog('success', d))
+            .on('error', (error) => console.error(error))
+        }
+      }, 100)
+    </script>
+  </body>
+</html>

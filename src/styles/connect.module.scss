@@ -1,0 +1,52 @@
+.connect {
+  padding: 20px;
+}
+
+.btns {
+  margin-top: 30px;
+  > div {
+    margin-bottom: 10px;
+  }
+}
+
+.item {
+  margin-bottom: 20px;
+}
+.t1 {
+  margin-bottom: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #020811;
+  text-align: left;
+}
+.t2 {
+  text-align: left;
+  font-size: 13px;
+  font-weight: 400;
+  color: rgba(131, 131, 131, 1);
+  line-height: 18px;
+  word-break: break-all;
+}
+
+.item2 {
+  border-radius: 8px;
+  border: 1px solid #000000;
+  padding: 20px;
+}
+
+.t21 {
+  margin-bottom: 3px;
+
+  font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+  text-align: left;
+}
+.t22 {
+  text-align: left;
+  word-break: break-all;
+  font-size: 15px;
+  font-weight: 400;
+  color: #000000;
+  line-height: 21px;
+}

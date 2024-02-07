@@ -1,0 +1,64 @@
+.modalContent {
+  padding-top: 0px;
+}
+
+.txDialogItem {
+  padding: 10px 17px;
+  min-height: 54px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #e1e1e1;
+}
+
+.txDialogLabel {
+  font-size: 15px;
+  font-weight: 400;
+  color: #838383;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  margin-right: 10px;
+}
+
+.txDialogValue {
+  font-size: 15px;
+  font-weight: 400;
+  color: #02060d;
+  display: flex;
+  align-items: center;
+  word-break: break-all;
+  img {
+    width: 17px;
+    height: 17px;
+    margin-left: 5px;
+    margin-right: 0;
+    cursor: pointer;
+  }
+}
+.bottomOpt {
+  font-size: 15px;
+  font-weight: 400;
+  color: #000000;
+  text-align: right;
+  padding-right: 16px;
+  padding-top: 16px;
+  > div {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  > div:first-child {
+    margin-bottom: 10px;
+  }
+  div.optDisable {
+    cursor: default;
+    text-decoration: none;
+    color: rgba(193, 193, 193, 1);
+  }
+}
+.colorSuccess {
+  color: rgba(120, 192, 110, 1) !important;
+}
+
+.colorError {
+  color: rgba(255, 89, 79, 1) !important;
+}

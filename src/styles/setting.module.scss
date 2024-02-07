@@ -1,0 +1,48 @@
+.setting {
+}
+.setItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 56px;
+  padding: 0 20px;
+  border: 1px solid #e1e1e1;
+}
+.setLeft {
+  display: flex;
+  align-items: center;
+  img {
+    margin-right: 10px;
+  }
+}
+
+.clearBtn {
+  height: 23px;
+  line-height: 22px;
+  background: #ffffff;
+  border-radius: 17px;
+  border: 1px solid #000000;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  color: #000000;
+  padding: 0 13px;
+}
+
+.rightText {
+  font-size: 17px;
+  font-weight: 400;
+  color: #838383;
+}
+
+.link {
+  cursor: pointer;
+}
+.btns {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  > button {
+    width: 48%;
+  }
+}

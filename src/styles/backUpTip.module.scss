@@ -1,0 +1,46 @@
+.imgWrap {
+  padding: 20px 0;
+  text-align: center;
+  img {
+    width: 102px;
+  }
+}
+.btns {
+  padding: 0 20px;
+  margin-top: 16px;
+  p {
+    margin: 0 0 31px 0;
+
+    font-size: 21px;
+    font-weight: 600;
+    color: #000000;
+  }
+  > div {
+    margin-bottom: 10px;
+  }
+}
+
+.content {
+  margin-bottom: 30px;
+  text-align: left;
+  padding: 0 20px;
+}
+.t1 {
+  font-size: 15px;
+  font-weight: bold;
+  color: #020811;
+  margin-bottom: 10px;
+}
+.t2 {
+  font-size: 13px;
+  font-weight: 400;
+  color: #000000;
+  line-height: 21px;
+  margin-bottom: 10px;
+}
+.t3 {
+  font-size: 13px;
+  font-weight: 400;
+  color: #838383;
+  line-height: 21px;
+}

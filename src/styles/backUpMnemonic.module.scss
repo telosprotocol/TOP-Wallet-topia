@@ -1,0 +1,88 @@
+.container {
+  padding: 20px;
+}
+.mccontainer {
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  > div {
+    width: 100px;
+    height: 31px;
+    line-height: 31px;
+    text-align: center;
+    background: #f2f2f2;
+    border-radius: 4px;
+    margin-bottom: 6px;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    overflow: hidden;
+    margin-right: 10px;
+    cursor: pointer;
+    user-select: none;
+  }
+  > div:nth-child(3n) {
+    margin-right: 0;
+  }
+  .isSelect {
+    background: transparent;
+    color: transparent;
+  }
+}
+.mccontainer1 {
+  height: 154px;
+  background: #f2f2f2;
+  border-radius: 4px;
+  padding: 6px;
+  text-align: left;
+  > div {
+    width: 96px;
+    display: inline-block;
+    position: relative;
+    height: 31px;
+    line-height: 31px;
+    text-align: center;
+    background: #ffffff;
+    border-radius: 4px;
+    margin-bottom: 6px;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    margin-right: 10px;
+    cursor: pointer;
+    user-select: none;
+    img {
+      position: absolute;
+      top: -3px;
+      right: -3px;
+    }
+  }
+  > div:nth-child(3n) {
+    margin-right: 0;
+  }
+}
+
+.tips {
+  margin: 20px 0 30px 0;
+  font-size: 13px;
+  line-height: 21px;
+  text-align: left;
+  font-weight: 400;
+  color: #838383;
+}
+
+.t1,
+.t2 {
+  margin-bottom: 10px;
+
+  font-size: 13px;
+  font-weight: 400;
+  color: #000000;
+  line-height: 21px;
+  text-align: left;
+}
+
+.t2 {
+  color: #ff594f;
+}

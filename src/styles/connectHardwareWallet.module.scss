@@ -1,0 +1,141 @@
+.chw {
+  padding: 20px;
+}
+.fixBottom {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 20px;
+}
+.ledger {
+  width: 152px;
+  height: 64px;
+  background: rgba(53, 72, 167, 0.05);
+  border-radius: 8px;
+  border: 1px solid #3548a7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.error {
+  font-size: 12px;
+  font-weight: 500;
+  color: #ff594f;
+  line-height: 16px;
+  margin-bottom: 16px;
+  text-align: left;
+}
+.info {
+  font-size: 12px;
+  font-weight: 400;
+  color: #333333;
+  line-height: 17px;
+  text-align: left;
+  p {
+    margin: 0;
+  }
+}
+.addressBtns {
+  display: flex;
+  justify-content: space-between;
+  button {
+    width: 47%;
+  }
+}
+.selectYour {
+  font-size: 16px;
+  font-weight: 500;
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+.addressItem {
+  background: rgba(53, 72, 167, 0.05);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  justify-content: space-between;
+  .address {
+    font-size: 14px;
+    font-weight: 500;
+    color: #020811;
+    margin-bottom: 3px;
+    word-break: break-all;
+  }
+  .balance {
+    font-size: 12px;
+    font-weight: 400;
+    color: #838383;
+  }
+  .jump {
+    margin-left: 34px;
+  }
+}
+.aCheckWrap {
+  flex-shrink: 0;
+  align-self: baseline;
+  margin-right: 12px;
+  display: flex;
+  align-items: center;
+  img {
+    margin-right: 5px;
+  }
+  span {
+    font-size: 14px;
+    font-weight: 500;
+    color: #020811;
+  }
+}
+.aAddressWrap {
+  flex-shrink: 1;
+}
+.addressItemInner {
+  display: flex;
+}
+.nextPrev {
+  text-align: right;
+  margin-bottom: 21px;
+  span {
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    color: #3548a7;
+    margin-left: 20px;
+  }
+  .disable {
+    color: #838383;
+    cursor: default;
+  }
+}
+.forget {
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  color: #3548a7;
+  margin-top: 14px;
+}
+.btns33 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 33px;
+  > button {
+    width: 48%;
+  }
+}
+.addressList {
+  min-height: 200px;
+}
+
+.loadingWrap {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

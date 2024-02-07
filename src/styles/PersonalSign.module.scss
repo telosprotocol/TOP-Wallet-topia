@@ -1,0 +1,117 @@
+.top {
+  padding: 22px 0;
+  .topInner {
+    margin: auto;
+    border: 1px solid #bbc0c5;
+    width: 180px;
+    height: 32px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 18px;
+    color: #bbc0c5;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 500;
+  }
+  span {
+    width: 12px;
+    height: 12px;
+  }
+  .status {
+    background: #29b6af;
+    border-radius: 50%;
+  }
+}
+
+.account {
+  background-color: #3548a70d;
+  text-align: center;
+  padding: 20px;
+}
+.accountName {
+  font-size: 16px;
+  color: #000000;
+  margin-bottom: 14px;
+}
+.websiteInfo {
+  margin-bottom: 20px;
+  .wiInner {
+    background-color: #3548a70d;
+    display: inline-flex;
+    border-radius: 24px;
+    height: 48px;
+    align-items: center;
+    padding: 12px;
+    color: #333;
+    font-size: 12px;
+    font-weight: 400;
+    img {
+      margin-right: 6px;
+      width: 24px;
+      height: 24px;
+      vertical-align: middle;
+    }
+  }
+}
+
+.sr {
+  color: #000;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 14px;
+}
+.srC {
+  color: #000;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.yourSign {
+  padding-top: 28px;
+  padding-bottom: 14px;
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+}
+.message {
+  border-top: 1px solid #3548a70d;
+  border-bottom: 1px solid #3548a70d;
+  padding: 12px 20px;
+  color: #999;
+  font-size: 12px;
+  line-height: 17px;
+  font-weight: 400;
+  text-align: left;
+  margin-bottom: 30px;
+  word-wrap: break-all;
+}
+.mTitle {
+  color: #666;
+  margin-bottom: 12px;
+}
+.btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  position: fixed;
+  width: 100%;
+  bottom: 14px;
+  left: 0%;
+  > div {
+    width: 48%;
+    > button {
+      border-radius: 24px;
+    }
+  }
+}
+.ledger {
+  padding: 0 20px;
+  > div {
+    width: 100%;
+  }
+}
+.breakAll {
+  word-break: break-all;
+}

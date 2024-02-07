@@ -1,0 +1,123 @@
+.InitWallet {
+  padding: 20px;
+}
+.btns {
+  > div {
+    margin-bottom: 10px;
+  }
+}
+.createOldbtns {
+  margin-top: 100px;
+}
+.formwrap {
+  margin-bottom: 30px;
+}
+.formitem {
+  margin-bottom: 10px;
+}
+.label {
+  font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 6px;
+  text-align: left;
+}
+.inputWrap {
+  margin-bottom: 6px;
+}
+.error {
+  font-size: 13px;
+  font-weight: 400;
+  color: #ff594f;
+  line-height: 18px;
+  text-align: left;
+}
+
+.content {
+  position: relative;
+  textarea {
+    background: #f2f2f2;
+    border-radius: 4px;
+    height: 169px;
+    width: 100%;
+    border: none;
+    appearance: none;
+    outline: none;
+    resize: none;
+    padding: 17px;
+
+    font-size: 13px;
+    font-weight: 400;
+    color: rgba(2, 8, 17, 1);
+    line-height: 18px;
+  }
+  span {
+    position: absolute;
+    height: 18px;
+    line-height: 18px;
+    border-radius: 8px;
+    border: 1px solid #000000;
+    padding: 0 10px;
+    font-size: 12px;
+    font-weight: 500;
+    color: #000000;
+    top: 140px;
+    right: 10px;
+    cursor: pointer;
+    background: #f2f2f2;
+  }
+}
+.labelWithSelect {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tip1 {
+  margin-bottom: 10px;
+  font-size: 13px;
+  font-weight: 400;
+  color: #838383;
+  line-height: 21px;
+  text-align: left;
+}
+
+.mccontainer {
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  > div {
+    width: 100px;
+    height: 31px;
+    line-height: 31px;
+    text-align: center;
+    background: #f2f2f2;
+    border-radius: 4px;
+    margin-bottom: 6px;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    overflow: hidden;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  > div:nth-child(3n) {
+    margin-right: 0;
+  }
+}
+
+.errorColor {
+  color: #ff594f !important;
+}
+
+.addressItem {
+  display: inline-block;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  padding: 8px 16px;
+  margin: 0 8px;
+}
+.addressItemSelect {
+  font-weight: bold;
+}

@@ -1,0 +1,61 @@
+.imgWrap {
+  padding-top: 40px;
+  text-align: center;
+  img {
+    max-width: 360px;
+    width: 100%;
+  }
+}
+.btns {
+  padding: 0 20px;
+  margin-top: 16px;
+  p {
+    margin: 0 0 31px 0;
+
+    font-size: 21px;
+    font-weight: 600;
+    color: #000000;
+  }
+  > div {
+    margin-bottom: 10px;
+  }
+}
+
+.formitem {
+  margin-bottom: 30px;
+}
+.label {
+  font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 6px;
+  text-align: left;
+}
+.inputWrap {
+  margin-bottom: 6px;
+}
+.error {
+  font-size: 13px;
+  font-weight: 400;
+  color: #ff594f;
+  line-height: 18px;
+  text-align: left;
+}
+.modalContent {
+  padding-top: 30px;
+}
+.desc {
+  font-size: 17px;
+  font-weight: 500;
+  color: #000000;
+  line-height: 23px;
+  margin-bottom: 44px;
+}
+
+.modalBtns {
+  display: flex;
+  justify-content: space-between;
+  >button {
+    width: 47%;
+  }
+}

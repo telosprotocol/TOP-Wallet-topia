@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="22px" viewBox="0 0 42 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>off</title>
+    <g id="2023.1.12改动" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="管理自定义代币备份" transform="translate(-278.000000, -212.000000)">
+            <g id="off" transform="translate(278.000000, 212.000000)">
+                <path d="M0,11 L0,11 C0,4.92486775 4.92076837,0 11.0075657,0 L30.9924343,0 C37.071745,0 42,4.923532 42,11 L42,11 C42,17.0751322 37.0792316,22 30.9924343,22 L11.0075657,22 C4.92825504,22 0,17.0791222 0,11 L0,11 Z" id="Rectangle-77-Copy-7" fill-opacity="0.1" fill="#000000"></path>
+                <path d="M11,20 C15.9705627,20 20,15.9705627 20,11 C20,6.02943725 15.9705627,2 11,2 C6.02943725,2 2,6.02943725 2,11 C2,15.9705627 6.02943725,20 11,20 Z" id="Oval-1-Copy-13" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

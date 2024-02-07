@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="" transform="translate(-124.000000, -260.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="-7" transform="translate(124.000000, 260.000000)">
+                <line x1="8" y1="2" x2="8" y2="12" id="-14-2"></line>
+                <line x1="6.26256313" y1="8.78033009" x2="6.23743687" y2="13.7552038" id="-14-4" transform="translate(6.250000, 11.267767) rotate(-45.000000) translate(-6.250000, -11.267767) "></line>
+                <line x1="9.76256313" y1="8.78033009" x2="9.73743687" y2="13.7552038" id="-14-5" transform="translate(9.750000, 11.267767) scale(-1, 1) rotate(-45.000000) translate(-9.750000, -11.267767) "></line>
+                <line x1="8" y1="8.5" x2="8" y2="20.5" id="-14-3" transform="translate(8.000000, 14.500000) rotate(90.000000) translate(-8.000000, -14.500000) "></line>
+            </g>
+        </g>
+    </g>
+</svg>

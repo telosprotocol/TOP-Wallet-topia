@@ -1,0 +1,81 @@
+.itWrap {
+  padding: 20px;
+  text-align: left;
+}
+.title {
+  font-size: 15px;
+  font-weight: 400;
+  color: #3548a7;
+  line-height: 21px;
+  margin-bottom: 17px;
+  cursor: pointer;
+}
+
+.label {
+  font-size: 15px;
+  font-weight: 500;
+  color: #020811;
+  line-height: 21px;
+  margin-bottom: 6px;
+}
+
+.error {
+  font-size: 13px;
+  font-weight: 400;
+  color: #ff594f;
+  line-height: 18px;
+  margin-top: 6px;
+}
+.item {
+  margin-bottom: 17px;
+}
+
+.content {
+  font-size: 13px;
+  font-weight: 400;
+  color: #838383;
+  line-height: 18px;
+}
+.addBtn {
+  margin-top: 30px;
+}
+
+.fixHeight {
+  min-height: 260px;
+}
+.btns {
+  margin-top: 50px;
+  > div {
+    margin-bottom: 10px;
+  }
+}
+.title1 {
+  font-size: 15px;
+  font-weight: 400;
+  color: #3548a7;
+  line-height: 21px;
+  margin-bottom: 20px;
+}
+.coinitem {
+  border-radius: 8px;
+  border: 1px solid rgba($color: #000000, $alpha: 0.4);
+  padding: 16px;
+  display: flex;
+}
+
+.symbol {
+  font-size: 15px;
+  font-weight: 400;
+  color: #020811;
+  line-height: 21px;
+  margin-bottom: 5px;
+}
+.balance {
+  font-size: 13px;
+  font-weight: 400;
+  color: #838383;
+  line-height: 18px;
+}
+.logoWrap {
+  margin-right: 15px;
+}

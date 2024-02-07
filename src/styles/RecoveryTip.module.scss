@@ -1,0 +1,31 @@
+.btns {
+  margin-top: 16px;
+  p {
+    margin: 0 0 31px 0;
+
+    font-size: 21px;
+    font-weight: 600;
+    color: #000000;
+  }
+  > div {
+    margin-bottom: 10px;
+  }
+}
+.content {
+  padding: 30px 20px 20px 20px;
+  text-align: left;
+}
+.tip1 {
+  font-size: 15px;
+  font-weight: 500;
+  color: #000000;
+  line-height: 21px;
+}
+.tip2 {
+  font-size: 13px;
+  color: #838383;
+  line-height: 21px;
+  span {
+    font-weight: bold;
+  }
+}

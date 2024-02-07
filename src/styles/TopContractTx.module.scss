@@ -1,0 +1,121 @@
+.transfer {
+  padding: 20px 20px 40px 20px;
+}
+.btns {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 44px;
+  > div {
+    width: 45%;
+  }
+}
+.top {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 44px;
+  border-bottom: 1px solid rgba($color: #3548a7, $alpha: 0.2);
+  span {
+    width: 40%;
+    font-size: 14px;
+    font-weight: 500;
+    color: #333333;
+  }
+}
+
+.centerInfo {
+  background: rgba(53, 72, 167, 0.05);
+  padding: 9px 0 19px 0;
+}
+
+.text1 {
+  font-size: 12px;
+  font-weight: 400;
+  color: #333333;
+  line-height: 17px;
+  margin-bottom: 8px;
+}
+
+.actions {
+  margin-bottom: 8px;
+  span {
+    display: inline-block;
+    height: 33px;
+    line-height: 33px;
+    background: #e6e8f0;
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #333333;
+    padding: 0 16px;
+    margin: 0 12px;
+  }
+}
+.text2 {
+  font-size: 24px;
+  font-weight: 500;
+  color: #333333;
+  line-height: 33px;
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+.text3 {
+  font-size: 12px;
+  font-weight: 400;
+  color: #333333;
+}
+
+.text4 {
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 16px;
+}
+
+.maxGasFee {
+  margin-bottom: 11px;
+  display: flex;
+  justify-content: space-between;
+  .maxLeft {
+    font-size: 16px;
+    font-weight: 500;
+    color: #333333;
+  }
+  .maxRight {
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(102, 102, 102, 1);
+    span {
+      color: rgba(51, 51, 51, 1);
+      font-weight: bold;
+      padding-left: 10px;
+    }
+  }
+}
+.inMin {
+  margin-bottom: 15px;
+  text-align: left;
+  font-size: 12px;
+  font-weight: 500;
+  color: #3548a7;
+  display: flex;
+  align-items: center;
+  img {
+    margin-right: 3px;
+  }
+}
+.line {
+  height: 1px;
+  opacity: 0.15;
+  border: 1px solid #979797;
+  margin-bottom: 15px;
+}
+.total {
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 15px;
+}

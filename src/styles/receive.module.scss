@@ -1,0 +1,31 @@
+.btns {
+  padding: 30px 20px;
+}
+.content {
+  padding: 35px 20px 0 20px;
+  position: relative;
+  canvas {
+    width: 160px;
+    height: 160px;
+  }
+}
+.receiveAddress {
+  background: #fafafa;
+  border-radius: 8px;
+  padding: 17px 13px;
+}
+.t1 {
+  font-size: 13px;
+  font-weight: 400;
+  color: #838383;
+  margin-bottom: 8px;
+  text-align: left;
+}
+.t2 {
+  text-align: left;
+  font-size: 15px;
+  font-weight: 400;
+  color: #020811;
+  line-height: 19px;
+  word-break: break-all;
+}

@@ -1,0 +1,368 @@
+{
+  "Sign": { "message": "签名" },
+  "Message": { "message": "消息" },
+  "Youaresigning": { "message": "您正在签名" },
+  "SignatureRequestDesc": {
+    "message": "只有在您完全理解内容并信任请求网站的情况下，才能签署此消息。"
+  },
+  "SignatureRequest": { "message": "签名请求" },
+  "HardwareWallet": { "message": "硬件钱包" },
+  "LedgerNotSupport": { "message": "Ledger 账户暂不支持该交易" },
+  "SelectOneAddress": { "message": "请至少选择一个地址" },
+  "SwitchTheNetWork": { "message": "请求切换链" },
+  "AllowSwitchTo": { "message": "是否同意请求切换到" },
+  "SelectYourAccount": { "message": "选择您的账户" },
+  "BeforeConfirming": {
+    "message": "点击确认前，将您的 Ledger 设备插入并选择 Ethereum 应用程序。"
+  },
+  "BeforeConfirmingFil": {
+    "message": "点击确认前，将您的 Ledger 设备插入并选择 Filecoin 应用程序。"
+  },
+  "NextLedger": { "message": "下一页" },
+  "Previous": { "message": "上一页" },
+  "UnlockLeder": { "message": "解锁" },
+  "LedgerWallet": { "message": "Ledger 钱包" },
+  "ForgetThisDevice": { "message": "忘记此设备" },
+  "ForgotDevice": { "message": "忘记设备?" },
+  "ForgotDeviceContent": {
+    "message": "执行此操作，将会清除您之前连接并导入的相关账户，若需恢复，需要您重新导入。"
+  },
+  "ConnectYourHardwareWallet": { "message": "连接你的硬件钱包" },
+  "PlugYourLedger": {
+    "message": "1. 请将你的Ledger设备连接到电脑"
+  },
+  "SelectEthereumApp": {
+    "message": "2. 选择并进入Ethereum App"
+  },
+  "SelectFilecoinApp": {
+    "message": "2. 选择并进入Filecoin App"
+  },
+  "ChooseTheAccount": {
+    "message": "3. 连接成功后，选择你想查看的账户"
+  },
+  "Continue": { "message": "继续" },
+  "GasLimit": { "message": "Gas上限" },
+  "Data": { "message": "数据" },
+  "ContractInteraction": { "message": "合约交互" },
+  "CreateYourTOPDigitalWallet": { "message": "创建您的TOP数字钱包" },
+  "CreateWallet": { "message": "创建新钱包" },
+  "ImportWallet": { "message": "导入已有钱包" },
+  "CreateWallet1": { "message": "创建钱包" },
+  "ImportWallet1": { "message": "导入钱包" },
+  "Welcome": { "message": "欢迎回来" },
+  "Password": { "message": "密码" },
+  "Password1": { "message": "钱包密码" },
+  "PleaseEnterA616DigitPassword": { "message": "请输入8~16位密码" },
+  "PleaseEnterA616DigitPasswordErr": {
+    "message": "请输入8~16位密码，必须包含1数字，1大写字母，1特殊符号"
+  },
+  "PleaseOneUpperCase": {
+    "message": "至少包含一个大写字母"
+  },
+  "PleaseOneDigit": {
+    "message": "至少包含一个数字"
+  },
+  "PleaseOneSymbol": {
+    "message": "至少包含一个符号"
+  },
+  "ResetWallet": { "message": "重置钱包" },
+  "LogIn": { "message": "登录" },
+  "IfTheWalletIsReset": {
+    "message": "重置钱包后原钱包数据将会被全部删除，并且无法找回，请确认是否重置"
+  },
+  "Cancel": { "message": "取消" },
+  "Cancel1": { "message": "取消创建" },
+  "Cancel2": { "message": "取消导入" },
+  "Reset": { "message": "确认重置" },
+  "Settings": { "message": "设置" },
+  "AccountDetails": { "message": "查看账户详情" },
+  "ViewAccountsAtTOPScan": { "message": "在TOPScan查看账户" },
+  "ViewAccountsAtFILScan": { "message": "在Filfox查看账户" },
+  "ViewAccountsAtScan": { "message": "在浏览器中查看账户" },
+  "ResourceManagement": { "message": "资源管理" },
+  "RemoveAccount": { "message": "移除账户" },
+  "ThisIsAnAccountName": { "message": "这是一个账户名称" },
+  "Copy": { "message": "复制" },
+  "Receive": { "message": "收款" },
+  "ReceiveAddress": { "message": "收款地址" },
+  "Transfer": { "message": "转账" },
+  "Transaction": { "message": "交易" },
+  "Assets": { "message": "资产" },
+  "Record": { "message": "交易记录" },
+  "MyAccount": { "message": "我的账户" },
+  "LockAccount": { "message": "锁定账户" },
+  "WalletSettings": { "message": "钱包设置" },
+  "AboutUs": { "message": "关于我们" },
+  "PleaseEnter120Characters": { "message": "请输入1~20位标准字符" },
+  "PleaseEnterTheWalletName": { "message": "请输入钱包名称，1~20位标准字符" },
+  "PleaseEnterA616DigitPassword2": {
+    "message": "请输入8~16位密码，可以是数字、字母、特殊符号的组合"
+  },
+  "RepeatPassword1": { "message": "重复密码" },
+  "RepeatPassword": { "message": "请重复密码" },
+  "TheTwoPasswordsDoNotMatch": { "message": "两次密码不一致，请重新输入" },
+  "Next": { "message": "下一步" },
+  "Next1": { "message": "继续" },
+  "Reminder": { "message": "备份提示" },
+  "PleaseBackupYourWallet": { "message": "请备份您的钱包！" },
+  "InTheNextStep": {
+    "message": "在下一步中，您将看到允许您恢复钱包的助记词（12个单词）。"
+  },
+  "IfYourMnemonicPhrasesAreLost": {
+    "message": "1、如果您的助记词丢失，您的资产将永远丢失"
+  },
+  "IfYourMnemonicPhrasesAreCompromised": {
+    "message": "2、如果您的助记词被泄露，您的资产可能会被盗"
+  },
+  "YouHaveTheResponsibilityToKeep": {
+    "message": "3、您有保护您的助记词安全的责任"
+  },
+  "TopiaIsADecentralizedWallet": {
+    "message": "4、Topia为去中心化钱包，不会存储您的私钥和助记词，私钥和助记词一旦丢失无法找回"
+  },
+  "BackupNow": { "message": "立即备份" },
+  "Later": { "message": "稍后备份" },
+  "BackupMnemonicPhrases": { "message": "备份助记词" },
+  "CopyMnemonicPhrases": { "message": "复制助记词" },
+  "DoNotTakeScreenshotsOrShare": {
+    "message": "1、请勿截图或分享保存，这可能被第三方恶意软件截取，造成损失"
+  },
+  "CheckYourSurroundings": {
+    "message": "2、请注意周边环境安全"
+  },
+  "VerifyMnemonicPhrases": { "message": "验证助记词" },
+  "ClickOnTheWordsToPutThemInTheCorrectOrder": {
+    "message": "点击单词，把它们按照正确地顺序放在一起。"
+  },
+  "IncorrectSequence": { "message": "顺序不正确，请重试！" },
+  "ImportMnemonicPhrases": { "message": "导入助记词" },
+  "Paste": { "message": "粘贴" },
+  "PleaseEnterYour12": { "message": "请输入您的12位助记词" },
+  "Sending": { "message": "正在发送中" },
+  "Receiving": { "message": "正在接收中" },
+  "SendTOP": { "message": "发送" },
+  "ReceiveTOP": { "message": "接收TOP" },
+  "MoreRecords": { "message": "查看更多记录" },
+  "GoToTOPScanForMoreRecords": { "message": "去TOPScan查看更多记录" },
+  "GoToFILScanForMoreRecords": { "message": "去浏览器查看更多记录" },
+  "Succeeded": { "message": "成功" },
+  "Failed": { "message": "失败" },
+  "From": { "message": "从" },
+  "To": { "message": "至" },
+  "Amount": { "message": "数量" },
+  "Fee": { "message": "手续费 （TOP）" },
+  "Fee1": { "message": "手续费" },
+  "FeeFil": { "message": "手续费 （FIL）" },
+  "Remark": { "message": "备注" },
+  "ViewOnExplorer": { "message": "在区块浏览器上查看" },
+  "CopyTransactionHash": { "message": "复制交易哈希" },
+  "CopyAddress": { "message": "复制地址" },
+  "TransferTo": { "message": "转账给" },
+  "IncorrectAddressFormat": { "message": "地址格式有误请确认地址格式" },
+  "SenderRecipientNotBeSame": { "message": "发送和接收账号不能相同" },
+  "Token": { "message": "币种" },
+  "Balance": { "message": "余额" },
+  "Note01TOP": {
+    "message": "说明：您有0.1TOP的金额将被做为保证金无法被转出"
+  },
+  "All": { "message": "全部" },
+  "IncorrectAmountPleaseEnterAgain": { "message": "数量错误，请重新输入" },
+  "OK": { "message": "确认" },
+  "Authorization": { "message": "授权签名" },
+  "Address": { "message": "签名地址" },
+  "TransactionHash": { "message": "交易哈希" },
+  "UseXXWalletToConnect": { "message": "使用XX钱包链接" },
+  "SelectAccount": { "message": "选择账户" },
+  "ConnectingTheWebsite": { "message": "连接后将允许该网站产看您的账户资产" },
+  "ToKeepYourAccountSafe": {
+    "message": "为了保证您的账户安全，请链接您信任的网站"
+  },
+  "Lock": { "message": "锁定账户" },
+  "ImportedAccountsWillNot": {
+    "message": "导入的账户将不会与最初创建的 Topia 账户助记词相关联"
+  },
+  "Type": { "message": "选择类型" },
+  "PrivateKey": { "message": "私钥" },
+  "MnemonicPhrases": { "message": "助记词" },
+  "PleasePasteThePrivateKey": { "message": "请粘贴私钥" },
+  "PleasePasteTheMnemonicPhrases": { "message": "请粘贴助记词" },
+  "WalletName": { "message": "钱包名称" },
+  "PleaseEnterThePassword": { "message": "请输入钱包密码" },
+  "IncorrectPassword": { "message": "密码错误请重新输入" },
+  "Import": { "message": "导入" },
+  "IncorrectPrivateKey": { "message": "您输入的私钥有误，请重新输入" },
+  "IncorrectMnemonicPhrases": { "message": "您输入的助记词有误，请重新输入" },
+  "PrivateKeyAlreadyExists": { "message": "您输入的私钥已存在，请确认" },
+  "MnemonicPhrasesAlreadyExist": { "message": "您输入的助记词已存在，请确认" },
+  "TheNewAccountWillBeBasedOn": {
+    "message": "新账户将会基于您最初创建/导入的助记词帮您创建账户"
+  },
+  "Create": { "message": "创建" },
+  "Language": { "message": "语言" },
+  "SimplifiedChinese": { "message": "简体中文" },
+  "CurrencyUnit": { "message": "货币单位" },
+  "ShowMnemonicPhrases": { "message": "显示助记词" },
+  "ClearCache": { "message": "重设账户" },
+  "Clear": { "message": "重设" },
+  "DontShowThisAccountMnemonicToAnyone": {
+    "message": "不要对任何人展示此账户助记词！"
+  },
+  "ThisAccountMnemonicCanBe": {
+    "message": "该账户助记词可以用来窃取您的所有帐户"
+  },
+  "YourMnemonicPhrases": { "message": "您的账户助记词" },
+  "Close": { "message": "关闭" },
+  "Version": { "message": "当前版本" },
+  "PrivacyPolicy": { "message": "隐私政策" },
+  "TermsOfUse": { "message": "使用条款" },
+  "TopiaOfficialWebsite": { "message": "Topia官网" },
+  "WeChat": { "message": "微信" },
+  "WeChatOfficialAccount": { "message": "微信公众号" },
+  "ViewAccountAtTOPScan": { "message": "在TOPScan查看账户" },
+  "Edit": { "message": "修改" },
+  "ExportPrivateKey": { "message": "导出私钥" },
+  "ExportPrivateKey1": { "message": "导出私钥" },
+  "NoteNeverMakeYourPrivateKeyPublic": {
+    "message": "注意：永远不要公开这个私钥。任何拥有您的私钥的人都可以窃取您帐户中的任何资产。"
+  },
+  "NoteNeverMakeYourPrivateKeyPublic2": {
+    "message": "注意：永远不要公开这个助记词。任何拥有您的助记词的人都可以窃取您帐户中的任何资产。"
+  },
+  "Finish": { "message": "完成" },
+  "ExportMnemonicPhrases": { "message": "导出助记词" },
+  "ExportMnemonicPhrases1": { "message": "导出助记词" },
+  "EachTOPAccountWillInitially": {
+    "message": "每个TOP账户初始会有25,000Tgas做为转账手续费使用，默认情况下，若账户余额大于100TOP Token，该账户每24小时还会被免费曾送25,000Tgas"
+  },
+  "AvailableTgas": { "message": "可用Tgas" },
+  "AvailableTotalFreeTags": { "message": "可用/总免费Tags" },
+  "AvailableTotalStakedTags": { "message": "可用/总质押Tags" },
+  "LockWithdraw": { "message": "锁定/赎回" },
+  "WithdrawableTOP": { "message": "可赎回TOP" },
+  "Withdraw": { "message": "赎回" },
+  "LockTOP": { "message": "锁定TOP" },
+  "ExchangeForTgas": { "message": "兑换Tgas" },
+  "PleaseEnterTheLockedAmount": { "message": "请输入锁定的数量" },
+  "InsufficientBalance": { "message": "请输入正确余额" },
+  "AvailableBalance": { "message": "可用余额（TOP）：" },
+  "WithdrawTOP": { "message": "赎回TOP" },
+  "ConsumedTgas": { "message": "消耗Tgas" },
+  "PleaseEnterTheWithdrawalAmount": { "message": "请输入赎回的数量" },
+  "YouHaveNoTransactions": { "message": "没有交易记录" },
+  "sending": { "message": "正在发送中" },
+  "failure": { "message": "发送失败" },
+  "success": { "message": "发送成功" },
+  "success1": { "message": "操作成功" },
+  "Copied": { "message": "已复制" },
+  "YourMnemonicsHaveNotBeenBackedUp": {
+    "message": "您的助记词还未备份，请备份您的助记词用于恢复您的资产，防止忘记密码或应用误删除等情况导致资产损失"
+  },
+  "Status": { "message": "状态" },
+  "Date": { "message": "日期" },
+  "PleaseEnterYourPrivateKey": { "message": "请输入您的私钥" },
+  "InsufficientBalance1": { "message": "余额不足" },
+  "PleaseEnterPaymentAddress": { "message": "请输入收款地址" },
+  "PleaseEnterTheTransferAmount": {
+    "message": "请输入转账数量"
+  },
+  "PleaseEnterTheRemark": { "message": "请输入备注" },
+  "DontSeeYourToken": { "message": "找不到您的代币？" },
+  "ImportTokens": { "message": "导入代币" },
+  "CustomToken": { "message": "管理导入代币" },
+  "TokenContractAddress": { "message": "代币合约地址" },
+  "PleaseInputAddress": { "message": "请输入代币合约地址" },
+  "TokenSymbol": { "message": "代币符号" },
+  "TokenDecimal": { "message": "小数精度" },
+  "AddToken": { "message": "添加代币" },
+  "SureAdd": { "message": "您想添加这个代币吗？" },
+  "Back": { "message": "返回" },
+  "ImportToken": { "message": "导入代币" },
+  "InvalidAddress": { "message": "合约地址无效" },
+  "TokenHasAdd": { "message": "代币已导入过" },
+  "AddSuccess": { "message": "导入成功" },
+  "HideToken": { "message": "移除" },
+  "RemarkInformation128": { "message": "备注信息最大128字符" },
+  "IHaveRead": { "message": "请阅读并同意" },
+  "TermOfUse": { "message": "《使用条款》" },
+  "PleaseAgreeTermOfUse": { "message": "请同意《使用条款》" },
+  "ResettingAccount": {
+    "message": "重设账户将会清除你的交易历史记录。清除历史记录不会影响你的余额，也不需要你重新输入你的助记词。"
+  },
+  "Nevermind": { "message": "不用了" },
+  "Reset1": { "message": "重设" },
+  "ResetAccount": { "message": "重设账户？" },
+  "NoThanks": { "message": "不用了" },
+  "YesCreateIt": { "message": "创建账户" },
+  "YouDontYetHave": {
+    "message": "你还没有Filecoin账户，现在创建一个吗？"
+  },
+  "UnlockTransfer": {
+    "message": "解锁转账功能"
+  },
+  "EnterToUnlockTransfer": {
+    "message": "请输入钱包密码，来解锁转账功能。"
+  },
+  "Reveal": {
+    "message": "展示"
+  },
+  "Unlock": {
+    "message": "解锁转账"
+  },
+  "RevealBalance": {
+    "message": "展示余额"
+  },
+  "EnterToRevealBalance": {
+    "message": "请输入钱包密码，来解锁你的账户余额。"
+  },
+  "PleaseEnterPassword": {
+    "message": "请输入钱包密码"
+  },
+  "Account": {
+    "message": "账号"
+  },
+  "SystemContract": {
+    "message": "系统合约"
+  },
+  "DETAILS": {
+    "message": "详情"
+  },
+  "MaxGasFee": {
+    "message": "最大交易费"
+  },
+  "LikelyIn": {
+    "message": "上链时间约< 1 分钟"
+  },
+  "Total": {
+    "message": "总计"
+  },
+  "Reject": {
+    "message": "拒绝"
+  },
+  "Confirm": {
+    "message": "确认"
+  },
+  "ContractFunction": {
+    "message": "合约函数"
+  },
+  "Params": {
+    "message": "参数"
+  },
+  "Tokensymbol": {
+    "message": "代币地址"
+  },
+  "ManageCustomToken": {
+    "message": "管理代币"
+  },
+  "NoToken": {
+    "message": "没有代币"
+  },
+  "T8Address": {
+    "message": "T8 地址"
+  },
+  "T0Address": {
+    "message": "T0 地址"
+  },
+  "ForSecurityReasons": {
+    "message": "为保证安全，请输入钱包密码来解锁转账功能。"
+  }
+}
